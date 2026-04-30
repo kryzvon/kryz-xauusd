@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.6.6",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.6.6_Setup.exe",
-  "changelog": "1. Pembaruan stabilitas sistem v1.6.6.\n2. Sinkronisasi metadata installer profesional.\n3. Perbaikan minor alur auto-update."
+  "version": "Kryzvon XAUUSD Edition v1.6.8",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.6.8_Setup.exe",
+  "changelog": "1. Perbaikan presisi perataan (alignment) UI Sidebar. 2. Optimalisasi visibilitas simbol persen (%). 3. Sistem pembaruan versi otomatis terintegrasi. 4. Menambahkan fitur otomatis 'Run as Administrator'."
 }
