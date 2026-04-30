@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.6.9",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.6.9_Setup.exe",
-  "changelog": "1. Perbaikan presisi perataan (alignment) UI Sidebar.\\n2. Optimalisasi visibilitas simbol persen (%).\\n3. Sistem pembaruan versi otomatis terintegrasi.\\n4. Fitur otomatis 'Run as Administrator'.\\n5. Sinkronisasi tema gelap (Dark Theme) jendela update.\\n6. Tata letak Progress Bar yang lebih profesional."
+  "version": "Kryzvon XAUUSD Edition v1.7.0",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.0_Setup.exe",
+  "changelog": "1. Perbaikan presisi perataan (alignment) UI Sidebar.\n2. Optimalisasi visibilitas simbol persen (%).\n3. Sistem pembaruan versi otomatis terintegrasi.\n4. Fitur otomatis 'Run as Administrator'.\n5. Sinkronisasi tema gelap (Dark Theme) jendela update.\n6. Tata letak Progress Bar yang lebih profesional."
 }
