@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.6.4",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.6.4_Setup.exe",
-  "changelog": "1. Sistem Auto-Download terintegrasi.\n2. Perbaikan popup update tepat di tengah layar.\n3. Optimasi performa master build v1.6.4."
+  "version": "Kryzvon XAUUSD Edition v1.6.5",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.6.5_Setup.exe",
+  "changelog": "1. Perbaikan visual progress bar (Dark Green).\n2. Optimalisasi sistem auto-download.\n3. Pembaruan stabilitas koneksi GitHub v1.6.5."
 }
