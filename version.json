@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.6.2",
-  "download_url": "https://github.com/kryzvon/kryz-xauusd/releases",
-  "changelog": "1. Pembaruan sistem identitas Windows (AppID).\n2. Sinkronisasi metadata file EXE v1.6.2.\n3. Perbaikan alur installer."
+  "version": "Kryzvon XAUUSD Edition v1.6.4",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.6.4_Setup.exe",
+  "changelog": "1. Sistem Auto-Download terintegrasi.\n2. Perbaikan popup update tepat di tengah layar.\n3. Optimasi performa master build v1.6.4."
 }
