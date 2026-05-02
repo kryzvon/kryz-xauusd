@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.7.2",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.2_Setup.exe",
+  "version": "Kryzvon XAUUSD Edition v1.7.3",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.3_Setup.exe",
   "changelog": "1. Optimasi Build: Beralih ke mode folder (--onedir) untuk stabilitas maksimal.\n2. Perbaikan Error DLL: Menghilangkan masalah \"Python DLL not found\" pada Windows.\n3. Kecepatan Startup: Booting aplikasi menjadi lebih cepat.\n4. Installer Profesional: Bundling seluruh dependensi sistem secara utuh.\n5. Peningkatan Sinkronisasi: Update otomatis seluruh metadata proyek dalam satu klik."
 }
