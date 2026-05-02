@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.7.1",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.1_Setup.exe",
-  "changelog": "1. Penghapusan simbol persen (%) pada input angka untuk estetika.\n2. Implementasi Sistem Mutex standar Windows (Single Instance).\n3. Penambahan fitur 'Clean Exit' untuk penutupan aplikasi yang sempurna.\n4. Perbaikan penanganan file log yang terkunci.\n5. Optimalisasi stabilitas saat startup aplikasi."
+  "version": "Kryzvon XAUUSD Edition v1.7.2",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.2_Setup.exe",
+  "changelog": "1. Optimasi Build: Beralih ke mode folder (--onedir) untuk stabilitas maksimal.\n2. Perbaikan Error DLL: Menghilangkan masalah \"Python DLL not found\" pada Windows.\n3. Kecepatan Startup: Booting aplikasi menjadi lebih cepat.\n4. Installer Profesional: Bundling seluruh dependensi sistem secara utuh.\n5. Peningkatan Sinkronisasi: Update otomatis seluruh metadata proyek dalam satu klik."
 }
