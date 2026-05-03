@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.7.5",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.5_Setup.exe",
-  "changelog": "v1.7.5:\n- [SEC] HWID Licensing: Advanced hardware-lock security for distribution.\n- [UI] Professional Splash Screen: New pulse animation and secure activation interface.\n- [SYS] Core Stability: Reverted to native dialogs for 100% crash-free user experience.\n- [FIX] Chart Engine: Optimized for Python 3.14 and latest Matplotlib versions."
+  "version": "Kryzvon XAUUSD Edition v1.7.6",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.6_Setup.exe",
+  "changelog": "v1.7.6:\n- [SEC] Persistent Licensing: Moved license storage to AppData for 100% reliability and update-proof activation.\n- [FIX] Windows Permissions: Resolved \"Permission Denied\" errors when running from Program Files.\n- [UI] Minimalist Refinements: Polished activation UI and status messaging."
 }
