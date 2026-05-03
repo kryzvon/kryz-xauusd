@@ -1,5 +1,5 @@
 {
-  "version": "Kryzvon XAUUSD Edition v1.7.6",
-  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.6_Setup.exe",
+  "version": "Kryzvon XAUUSD Edition v1.7.7",
+  "direct_url": "https://github.com/kryzvon/kryz-xauusd/releases/latest/download/Kryzvon_XAUUSD_v1.7.7_Setup.exe",
   "changelog": "v1.7.6:\n- [SEC] Persistent Licensing: Moved license storage to AppData for 100% reliability and update-proof activation.\n- [FIX] Windows Permissions: Resolved \"Permission Denied\" errors when running from Program Files.\n- [UI] Minimalist Refinements: Polished activation UI and status messaging."
 }
